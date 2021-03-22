@@ -59,8 +59,8 @@
         
     }
     .navbar li a:active{
-        color:RGB(100, 99, 157);
-        text-decoration: underline;
+        color:red;
+        /* text-decoration: underline; */
     }
     .btn{
         
